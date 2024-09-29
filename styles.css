@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 100vw;
+    height: 70px;
+    /* padding: 10px 10px 10px 30px; */
+    background-color: #2b2c2d;
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+    box-shadow: 0px 5px 10px rgb(179, 178, 178);
+}
+
+.espn-logo{
+    height: 30px;
+    margin: 10px 10px 10px 30px;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.stat-grid-container{
+    display: grid;
+    grid-template-rows: repeat(3, 40px);
+    grid-template-columns: repeat(7, auto);
+    font-weight: 600;
+    box-shadow: 0px 5px 10px rgb(179, 178, 178);
+}
+
+.stat-grid-items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+.stat-grid-headers{
+    background-color: #e62031;
+}
+
+.stat-grid-regular{
+    background-color: #ececec;
+}
