@@ -10,13 +10,21 @@ header{
     background-color: #2b2c2d;
     display: flex;
     align-items: center;
+    justify-content: center;
     margin-bottom: 50px;
     box-shadow: 0px 5px 10px rgb(179, 178, 178);
 }
 
 .espn-logo{
     height: 30px;
-    margin: 10px 10px 10px 30px;
+    margin: 10px auto 10px 30px;
+}
+
+.date-container{
+    position: absolute;
+    background-color: rgb(243, 243, 243);
+    padding: 5px 15px 5px 15px;
+    border-radius: 8px;
 }
 
 body{
@@ -29,8 +37,8 @@ body{
 
 .stat-grid-container{
     display: grid;
-    grid-template-rows: repeat(3, 40px);
-    grid-template-columns: repeat(7, auto);
+    grid-template-rows: repeat(13, 40px);
+    grid-template-columns: repeat(8, auto);
     font-weight: 600;
     box-shadow: 0px 5px 10px rgb(179, 178, 178);
 }

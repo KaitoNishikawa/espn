@@ -1,0 +1,134 @@
+[
+    {
+        "age": 8,
+        "saddle": 1,
+        "price": 0.012987013,
+        "RPR": 6,
+        "OR": 54,
+        "runners": 12,
+        "margin": 1.2417168066,
+        "weight": 57,
+        "name": "Zeus"
+    },
+    {
+        "age": 6,
+        "saddle": 2,
+        "price": 0.025641026,
+        "RPR": 47,
+        "OR": 54,
+        "runners": 12,
+        "margin": 1.2417168066,
+        "weight": 58,
+        "name": "Pegasus"
+    },
+    {
+        "age": 4,
+        "saddle": 3,
+        "price": 0.013333333,
+        "RPR": 39,
+        "OR": 52,
+        "runners": 12,
+        "margin": 1.2417168066,
+        "weight": 57,
+        "name": "Phantom"
+    },
+    {
+        "age": 3,
+        "saddle": 4,
+        "price": 0.108695652,
+        "RPR": 61,
+        "OR": 52,
+        "runners": 12,
+        "margin": 1.2417168066,
+        "weight": 57,
+        "name": "Draco"
+    },
+    {
+        "age": 3,
+        "saddle": 5,
+        "price": 0.625,
+        "RPR": 55,
+        "OR": 52,
+        "runners": 12,
+        "margin": 1.2417168066,
+        "weight": 57,
+        "name": "Nightmare"
+    },
+    {
+        "age": 8,
+        "saddle": 6,
+        "price": 0.131578947,
+        "RPR": 64,
+        "OR": 52,
+        "runners": 12,
+        "margin": 1.2417168066,
+        "weight": 57,
+        "name": "Silver"
+    },
+    {
+        "age": 3,
+        "saddle": 7,
+        "price": 0.037037037,
+        "RPR": 53,
+        "OR": 52,
+        "runners": 12,
+        "margin": 1.2417168066,
+        "weight": 57,
+        "name": "Valkyrie"
+    },
+    {
+        "age": 5,
+        "saddle": 8,
+        "price": 0.058823529,
+        "RPR": 62,
+        "OR": 51,
+        "runners": 12,
+        "margin": 1.2417168066,
+        "weight": 57,
+        "name": "Windchaser"
+    },
+    {
+        "age": 4,
+        "saddle": 9,
+        "price": 0.066666667,
+        "RPR": 49,
+        "OR": 50,
+        "runners": 12,
+        "margin": 1.2417168066,
+        "weight": 56,
+        "name": "Shadowfax"
+    },
+    {
+        "age": 3,
+        "saddle": 10,
+        "price": 0.047619048,
+        "RPR": 50,
+        "OR": 50,
+        "runners": 12,
+        "margin": 1.2417168066,
+        "weight": 56,
+        "name": "Midnight"
+    },
+    {
+        "age": 6,
+        "saddle": 11,
+        "price": 0.109890109,
+        "RPR": 53,
+        "OR": 48,
+        "runners": 12,
+        "margin": 1.2417168066,
+        "weight": 55,
+        "name": "Blaze"
+    },
+    {
+        "age": 4,
+        "saddle": 12,
+        "price": 0.004444444,
+        "RPR": 43,
+        "OR": 43,
+        "runners": 12,
+        "margin": 1.2417168066,
+        "weight": 52,
+        "name": "Stormrider"
+    }
+]
