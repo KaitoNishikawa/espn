@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "age": 8,
         "saddle": 1,
         "price": 0.012987013,
@@ -11,6 +12,7 @@
         "name": "Zeus"
     },
     {
+        "id": 2,
         "age": 6,
         "saddle": 2,
         "price": 0.025641026,
@@ -22,6 +24,7 @@
         "name": "Pegasus"
     },
     {
+        "id": 3,
         "age": 4,
         "saddle": 3,
         "price": 0.013333333,
@@ -33,6 +36,7 @@
         "name": "Phantom"
     },
     {
+        "id": 4,
         "age": 3,
         "saddle": 4,
         "price": 0.108695652,
@@ -44,6 +48,7 @@
         "name": "Draco"
     },
     {
+        "id": 5,
         "age": 3,
         "saddle": 5,
         "price": 0.625,
@@ -55,6 +60,7 @@
         "name": "Nightmare"
     },
     {
+        "id": 6,
         "age": 8,
         "saddle": 6,
         "price": 0.131578947,
@@ -66,6 +72,7 @@
         "name": "Silver"
     },
     {
+        "id": 7,
         "age": 3,
         "saddle": 7,
         "price": 0.037037037,
@@ -77,6 +84,7 @@
         "name": "Valkyrie"
     },
     {
+        "id": 8,
         "age": 5,
         "saddle": 8,
         "price": 0.058823529,
@@ -88,6 +96,7 @@
         "name": "Windchaser"
     },
     {
+        "id": 9,
         "age": 4,
         "saddle": 9,
         "price": 0.066666667,
@@ -99,6 +108,7 @@
         "name": "Shadowfax"
     },
     {
+        "id": 10,
         "age": 3,
         "saddle": 10,
         "price": 0.047619048,
@@ -110,6 +120,7 @@
         "name": "Midnight"
     },
     {
+        "id": 11,
         "age": 6,
         "saddle": 11,
         "price": 0.109890109,
@@ -121,6 +132,7 @@
         "name": "Blaze"
     },
     {
+        "id": 12,
         "age": 4,
         "saddle": 12,
         "price": 0.004444444,
